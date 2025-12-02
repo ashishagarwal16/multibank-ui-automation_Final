@@ -1,0 +1,4 @@
+{
+  "topNavItems": ["Trading", "About Us", "Markets", "Login"],
+  "tradingPairs": ["BTC/USD", "ETH/USD", "XRP/USD"]
+}
